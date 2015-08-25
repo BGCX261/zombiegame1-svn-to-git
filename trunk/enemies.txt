@@ -1,0 +1,41 @@
+Basic units
+
+standard zombie
++massive hoards
+-average
+
+"speedlings"
++very fast
+-weak
+-fragile
+
+"spitter"
++intellient
++ranged attack
+-loners
+
+"tanks"
++strong
++tough
+-slow
+-loners
+
+boss/guardians
+
+"father"
++SUPER strong
++SUPER tough
++ground pound
++throws boulders
+
+"mother"
++SUPER smart
++telekentic bomb
++ "  "  pull
++ "  " push
+
+"crawler"
++SUPER fast
++jump/crawl over things
++shoots webbing
+
